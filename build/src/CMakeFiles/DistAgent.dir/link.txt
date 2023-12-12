@@ -1,0 +1,1 @@
+/usr/bin/g++  -O3 -mmmx -msse -mpclmul -msse4.2 -DINTEL_SSE4 -g -rdynamic CMakeFiles/DistAgent.dir/DistAgent.cc.o -o ../DistAgent  common/libcommon.a -lpthread ec/libec.a -lisal protocol/libprotocol.a util/libutil.a -lhiredis -lgf_complete 

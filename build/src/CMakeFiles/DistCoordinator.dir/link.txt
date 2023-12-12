@@ -1,0 +1,1 @@
+/usr/bin/g++  -O3 -mmmx -msse -mpclmul -msse4.2 -DINTEL_SSE4 -g -rdynamic CMakeFiles/DistCoordinator.dir/DistCoordinator.cc.o -o ../DistCoordinator  common/libcommon.a -lpthread protocol/libprotocol.a ec/libec.a protocol/libprotocol.a util/libutil.a -lhiredis -lgf_complete -lisal 

@@ -1,0 +1,269 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.1"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "src",
+					"childIndexes" : 
+					[
+						2,
+						3,
+						4,
+						5,
+						6
+					],
+					"jsonFile" : "directory-src-Debug-b6cf2213fc5053b67c22.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.1"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 1,
+					"source" : "src",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6
+					]
+				},
+				{
+					"build" : "src/common",
+					"jsonFile" : "directory-src.common-Debug-26ca1aee19599f655637.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.1"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 1,
+					"source" : "src/common",
+					"targetIndexes" : 
+					[
+						7
+					]
+				},
+				{
+					"build" : "src/dist",
+					"jsonFile" : "directory-src.dist-Debug-162d030e2aa96d06c98f.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.1"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 1,
+					"source" : "src/dist",
+					"targetIndexes" : 
+					[
+						8
+					]
+				},
+				{
+					"build" : "src/ec",
+					"jsonFile" : "directory-src.ec-Debug-7278e42204a9503daf14.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.1"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 1,
+					"source" : "src/ec",
+					"targetIndexes" : 
+					[
+						9
+					]
+				},
+				{
+					"build" : "src/protocol",
+					"jsonFile" : "directory-src.protocol-Debug-e2dbaf013debbf9929df.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.1"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 1,
+					"source" : "src/protocol",
+					"targetIndexes" : 
+					[
+						10
+					]
+				},
+				{
+					"build" : "src/util",
+					"jsonFile" : "directory-src.util-Debug-86cf09791d51c42f0db6.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.1"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 1,
+					"source" : "src/util",
+					"targetIndexes" : 
+					[
+						11
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1
+					],
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "ParaRC"
+				},
+				{
+					"directoryIndexes" : 
+					[
+						1,
+						2,
+						3,
+						4,
+						5,
+						6
+					],
+					"name" : "ParaRC_exe",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 1,
+					"id" : "BruteForce::@145eef247bfb46b6828c",
+					"jsonFile" : "target-BruteForce-Debug-7c52c793d7acdec5d1e1.json",
+					"name" : "BruteForce",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "CodeTest::@145eef247bfb46b6828c",
+					"jsonFile" : "target-CodeTest-Debug-80b6378bdcacad3c0617.json",
+					"name" : "CodeTest",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "DistAgent::@145eef247bfb46b6828c",
+					"jsonFile" : "target-DistAgent-Debug-d1beb22edb468c8ed87f.json",
+					"name" : "DistAgent",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "DistClient::@145eef247bfb46b6828c",
+					"jsonFile" : "target-DistClient-Debug-965ccd9cee9bc13d0d2d.json",
+					"name" : "DistClient",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "DistCoordinator::@145eef247bfb46b6828c",
+					"jsonFile" : "target-DistCoordinator-Debug-4529570117f120fd12f6.json",
+					"name" : "DistCoordinator",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "GenData::@145eef247bfb46b6828c",
+					"jsonFile" : "target-GenData-Debug-9a08c5ef43eaddb170be.json",
+					"name" : "GenData",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "GenMLP::@145eef247bfb46b6828c",
+					"jsonFile" : "target-GenMLP-Debug-e29d466e223fbc667f69.json",
+					"name" : "GenMLP",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "common::@af79f3804eddddbfa7f1",
+					"jsonFile" : "target-common-Debug-d527e338dad1138be53a.json",
+					"name" : "common",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "dist::@9c858ffe8a398fd42414",
+					"jsonFile" : "target-dist-Debug-67746a4dbbbe41e47601.json",
+					"name" : "dist",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "ec::@d0ce7499ac2d15efecd8",
+					"jsonFile" : "target-ec-Debug-14140977af8753291e65.json",
+					"name" : "ec",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 5,
+					"id" : "protocol::@265c2c6246c6aa3fd761",
+					"jsonFile" : "target-protocol-Debug-c1e3fb7a01b80d9ad28e.json",
+					"name" : "protocol",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 6,
+					"id" : "util::@6bc12a100e338ba65b7b",
+					"jsonFile" : "target-util-Debug-96e21f6c706fdff78113.json",
+					"name" : "util",
+					"projectIndex" : 1
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/han/Program/ParaRC/build",
+		"source" : "/home/han/Program/ParaRC"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 5
+	}
+}

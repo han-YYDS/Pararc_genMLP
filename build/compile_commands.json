@@ -1,0 +1,230 @@
+[
+{
+  "directory": "/home/han/Program/ParaRC/build/src",
+  "command": "/usr/bin/g++    -O3 -mmmx -msse -mpclmul -msse4.2 -DINTEL_SSE4 -g -std=gnu++11 -o CMakeFiles/DistCoordinator.dir/DistCoordinator.cc.o -c /home/han/Program/ParaRC/src/DistCoordinator.cc",
+  "file": "/home/han/Program/ParaRC/src/DistCoordinator.cc",
+  "output": "src/CMakeFiles/DistCoordinator.dir/DistCoordinator.cc.o"
+},
+{
+  "directory": "/home/han/Program/ParaRC/build/src",
+  "command": "/usr/bin/g++    -O3 -mmmx -msse -mpclmul -msse4.2 -DINTEL_SSE4 -g -std=gnu++11 -o CMakeFiles/DistAgent.dir/DistAgent.cc.o -c /home/han/Program/ParaRC/src/DistAgent.cc",
+  "file": "/home/han/Program/ParaRC/src/DistAgent.cc",
+  "output": "src/CMakeFiles/DistAgent.dir/DistAgent.cc.o"
+},
+{
+  "directory": "/home/han/Program/ParaRC/build/src",
+  "command": "/usr/bin/g++    -O3 -mmmx -msse -mpclmul -msse4.2 -DINTEL_SSE4 -g -std=gnu++11 -o CMakeFiles/DistClient.dir/DistClient.cc.o -c /home/han/Program/ParaRC/src/DistClient.cc",
+  "file": "/home/han/Program/ParaRC/src/DistClient.cc",
+  "output": "src/CMakeFiles/DistClient.dir/DistClient.cc.o"
+},
+{
+  "directory": "/home/han/Program/ParaRC/build/src",
+  "command": "/usr/bin/g++    -O3 -mmmx -msse -mpclmul -msse4.2 -DINTEL_SSE4 -g -std=gnu++11 -o CMakeFiles/BruteForce.dir/BruteForce.cc.o -c /home/han/Program/ParaRC/src/BruteForce.cc",
+  "file": "/home/han/Program/ParaRC/src/BruteForce.cc",
+  "output": "src/CMakeFiles/BruteForce.dir/BruteForce.cc.o"
+},
+{
+  "directory": "/home/han/Program/ParaRC/build/src",
+  "command": "/usr/bin/g++    -O3 -mmmx -msse -mpclmul -msse4.2 -DINTEL_SSE4 -g -std=gnu++11 -o CMakeFiles/GenMLP.dir/GenMLP.cc.o -c /home/han/Program/ParaRC/src/GenMLP.cc",
+  "file": "/home/han/Program/ParaRC/src/GenMLP.cc",
+  "output": "src/CMakeFiles/GenMLP.dir/GenMLP.cc.o"
+},
+{
+  "directory": "/home/han/Program/ParaRC/build/src",
+  "command": "/usr/bin/g++    -O3 -mmmx -msse -mpclmul -msse4.2 -DINTEL_SSE4 -g -std=gnu++11 -o CMakeFiles/CodeTest.dir/CodeTest.cc.o -c /home/han/Program/ParaRC/src/CodeTest.cc",
+  "file": "/home/han/Program/ParaRC/src/CodeTest.cc",
+  "output": "src/CMakeFiles/CodeTest.dir/CodeTest.cc.o"
+},
+{
+  "directory": "/home/han/Program/ParaRC/build/src",
+  "command": "/usr/bin/g++    -O3 -mmmx -msse -mpclmul -msse4.2 -DINTEL_SSE4 -g -std=gnu++11 -o CMakeFiles/GenData.dir/GenData.cc.o -c /home/han/Program/ParaRC/src/GenData.cc",
+  "file": "/home/han/Program/ParaRC/src/GenData.cc",
+  "output": "src/CMakeFiles/GenData.dir/GenData.cc.o"
+},
+{
+  "directory": "/home/han/Program/ParaRC/build/src/common",
+  "command": "/usr/bin/g++    -O3 -mmmx -msse -mpclmul -msse4.2 -DINTEL_SSE4 -g -std=gnu++11 -o CMakeFiles/common.dir/CmdDistributor.cc.o -c /home/han/Program/ParaRC/src/common/CmdDistributor.cc",
+  "file": "/home/han/Program/ParaRC/src/common/CmdDistributor.cc",
+  "output": "src/common/CMakeFiles/common.dir/CmdDistributor.cc.o"
+},
+{
+  "directory": "/home/han/Program/ParaRC/build/src/common",
+  "command": "/usr/bin/g++    -O3 -mmmx -msse -mpclmul -msse4.2 -DINTEL_SSE4 -g -std=gnu++11 -o CMakeFiles/common.dir/Config.cc.o -c /home/han/Program/ParaRC/src/common/Config.cc",
+  "file": "/home/han/Program/ParaRC/src/common/Config.cc",
+  "output": "src/common/CMakeFiles/common.dir/Config.cc.o"
+},
+{
+  "directory": "/home/han/Program/ParaRC/build/src/common",
+  "command": "/usr/bin/g++    -O3 -mmmx -msse -mpclmul -msse4.2 -DINTEL_SSE4 -g -std=gnu++11 -o CMakeFiles/common.dir/Coordinator.cc.o -c /home/han/Program/ParaRC/src/common/Coordinator.cc",
+  "file": "/home/han/Program/ParaRC/src/common/Coordinator.cc",
+  "output": "src/common/CMakeFiles/common.dir/Coordinator.cc.o"
+},
+{
+  "directory": "/home/han/Program/ParaRC/build/src/common",
+  "command": "/usr/bin/g++    -O3 -mmmx -msse -mpclmul -msse4.2 -DINTEL_SSE4 -g -std=gnu++11 -o CMakeFiles/common.dir/DataPacket.cc.o -c /home/han/Program/ParaRC/src/common/DataPacket.cc",
+  "file": "/home/han/Program/ParaRC/src/common/DataPacket.cc",
+  "output": "src/common/CMakeFiles/common.dir/DataPacket.cc.o"
+},
+{
+  "directory": "/home/han/Program/ParaRC/build/src/common",
+  "command": "/usr/bin/g++    -O3 -mmmx -msse -mpclmul -msse4.2 -DINTEL_SSE4 -g -std=gnu++11 -o CMakeFiles/common.dir/StripeMeta.cc.o -c /home/han/Program/ParaRC/src/common/StripeMeta.cc",
+  "file": "/home/han/Program/ParaRC/src/common/StripeMeta.cc",
+  "output": "src/common/CMakeFiles/common.dir/StripeMeta.cc.o"
+},
+{
+  "directory": "/home/han/Program/ParaRC/build/src/common",
+  "command": "/usr/bin/g++    -O3 -mmmx -msse -mpclmul -msse4.2 -DINTEL_SSE4 -g -std=gnu++11 -o CMakeFiles/common.dir/StripeStore.cc.o -c /home/han/Program/ParaRC/src/common/StripeStore.cc",
+  "file": "/home/han/Program/ParaRC/src/common/StripeStore.cc",
+  "output": "src/common/CMakeFiles/common.dir/StripeStore.cc.o"
+},
+{
+  "directory": "/home/han/Program/ParaRC/build/src/common",
+  "command": "/usr/bin/g++    -O3 -mmmx -msse -mpclmul -msse4.2 -DINTEL_SSE4 -g -std=gnu++11 -o CMakeFiles/common.dir/TradeoffPoints.cc.o -c /home/han/Program/ParaRC/src/common/TradeoffPoints.cc",
+  "file": "/home/han/Program/ParaRC/src/common/TradeoffPoints.cc",
+  "output": "src/common/CMakeFiles/common.dir/TradeoffPoints.cc.o"
+},
+{
+  "directory": "/home/han/Program/ParaRC/build/src/common",
+  "command": "/usr/bin/g++    -O3 -mmmx -msse -mpclmul -msse4.2 -DINTEL_SSE4 -g -std=gnu++11 -o CMakeFiles/common.dir/Worker.cc.o -c /home/han/Program/ParaRC/src/common/Worker.cc",
+  "file": "/home/han/Program/ParaRC/src/common/Worker.cc",
+  "output": "src/common/CMakeFiles/common.dir/Worker.cc.o"
+},
+{
+  "directory": "/home/han/Program/ParaRC/build/src/dist",
+  "command": "/usr/bin/g++    -O3 -mmmx -msse -mpclmul -msse4.2 -DINTEL_SSE4 -g -std=gnu++11 -o CMakeFiles/dist.dir/Solution.cc.o -c /home/han/Program/ParaRC/src/dist/Solution.cc",
+  "file": "/home/han/Program/ParaRC/src/dist/Solution.cc",
+  "output": "src/dist/CMakeFiles/dist.dir/Solution.cc.o"
+},
+{
+  "directory": "/home/han/Program/ParaRC/build/src/ec",
+  "command": "/usr/bin/g++    -O3 -mmmx -msse -mpclmul -msse4.2 -DINTEL_SSE4 -g -std=gnu++11 -o CMakeFiles/ec.dir/BUTTERFLY.cc.o -c /home/han/Program/ParaRC/src/ec/BUTTERFLY.cc",
+  "file": "/home/han/Program/ParaRC/src/ec/BUTTERFLY.cc",
+  "output": "src/ec/CMakeFiles/ec.dir/BUTTERFLY.cc.o"
+},
+{
+  "directory": "/home/han/Program/ParaRC/build/src/ec",
+  "command": "/usr/bin/g++    -O3 -mmmx -msse -mpclmul -msse4.2 -DINTEL_SSE4 -g -std=gnu++11 -o CMakeFiles/ec.dir/Clay.cc.o -c /home/han/Program/ParaRC/src/ec/Clay.cc",
+  "file": "/home/han/Program/ParaRC/src/ec/Clay.cc",
+  "output": "src/ec/CMakeFiles/ec.dir/Clay.cc.o"
+},
+{
+  "directory": "/home/han/Program/ParaRC/build/src/ec",
+  "command": "/usr/bin/g++    -O3 -mmmx -msse -mpclmul -msse4.2 -DINTEL_SSE4 -g -std=gnu++11 -o CMakeFiles/ec.dir/Computation.cc.o -c /home/han/Program/ParaRC/src/ec/Computation.cc",
+  "file": "/home/han/Program/ParaRC/src/ec/Computation.cc",
+  "output": "src/ec/CMakeFiles/ec.dir/Computation.cc.o"
+},
+{
+  "directory": "/home/han/Program/ParaRC/build/src/ec",
+  "command": "/usr/bin/g++    -O3 -mmmx -msse -mpclmul -msse4.2 -DINTEL_SSE4 -g -std=gnu++11 -o CMakeFiles/ec.dir/ECBase.cc.o -c /home/han/Program/ParaRC/src/ec/ECBase.cc",
+  "file": "/home/han/Program/ParaRC/src/ec/ECBase.cc",
+  "output": "src/ec/CMakeFiles/ec.dir/ECBase.cc.o"
+},
+{
+  "directory": "/home/han/Program/ParaRC/build/src/ec",
+  "command": "/usr/bin/g++    -O3 -mmmx -msse -mpclmul -msse4.2 -DINTEL_SSE4 -g -std=gnu++11 -o CMakeFiles/ec.dir/ECCluster.cc.o -c /home/han/Program/ParaRC/src/ec/ECCluster.cc",
+  "file": "/home/han/Program/ParaRC/src/ec/ECCluster.cc",
+  "output": "src/ec/CMakeFiles/ec.dir/ECCluster.cc.o"
+},
+{
+  "directory": "/home/han/Program/ParaRC/build/src/ec",
+  "command": "/usr/bin/g++    -O3 -mmmx -msse -mpclmul -msse4.2 -DINTEL_SSE4 -g -std=gnu++11 -o CMakeFiles/ec.dir/ECDAG.cc.o -c /home/han/Program/ParaRC/src/ec/ECDAG.cc",
+  "file": "/home/han/Program/ParaRC/src/ec/ECDAG.cc",
+  "output": "src/ec/CMakeFiles/ec.dir/ECDAG.cc.o"
+},
+{
+  "directory": "/home/han/Program/ParaRC/build/src/ec",
+  "command": "/usr/bin/g++    -O3 -mmmx -msse -mpclmul -msse4.2 -DINTEL_SSE4 -g -std=gnu++11 -o CMakeFiles/ec.dir/ECNode.cc.o -c /home/han/Program/ParaRC/src/ec/ECNode.cc",
+  "file": "/home/han/Program/ParaRC/src/ec/ECNode.cc",
+  "output": "src/ec/CMakeFiles/ec.dir/ECNode.cc.o"
+},
+{
+  "directory": "/home/han/Program/ParaRC/build/src/ec",
+  "command": "/usr/bin/g++    -O3 -mmmx -msse -mpclmul -msse4.2 -DINTEL_SSE4 -g -std=gnu++11 -o CMakeFiles/ec.dir/ECTask.cc.o -c /home/han/Program/ParaRC/src/ec/ECTask.cc",
+  "file": "/home/han/Program/ParaRC/src/ec/ECTask.cc",
+  "output": "src/ec/CMakeFiles/ec.dir/ECTask.cc.o"
+},
+{
+  "directory": "/home/han/Program/ParaRC/build/src/ec",
+  "command": "/usr/bin/g++    -O3 -mmmx -msse -mpclmul -msse4.2 -DINTEL_SSE4 -g -std=gnu++11 -o CMakeFiles/ec.dir/ECUnit.cc.o -c /home/han/Program/ParaRC/src/ec/ECUnit.cc",
+  "file": "/home/han/Program/ParaRC/src/ec/ECUnit.cc",
+  "output": "src/ec/CMakeFiles/ec.dir/ECUnit.cc.o"
+},
+{
+  "directory": "/home/han/Program/ParaRC/build/src/ec",
+  "command": "/usr/bin/g++    -O3 -mmmx -msse -mpclmul -msse4.2 -DINTEL_SSE4 -g -std=gnu++11 -o CMakeFiles/ec.dir/RSCONV.cc.o -c /home/han/Program/ParaRC/src/ec/RSCONV.cc",
+  "file": "/home/han/Program/ParaRC/src/ec/RSCONV.cc",
+  "output": "src/ec/CMakeFiles/ec.dir/RSCONV.cc.o"
+},
+{
+  "directory": "/home/han/Program/ParaRC/build/src/ec",
+  "command": "/usr/bin/g++    -O3 -mmmx -msse -mpclmul -msse4.2 -DINTEL_SSE4 -g -std=gnu++11 -o CMakeFiles/ec.dir/RSPIPE.cc.o -c /home/han/Program/ParaRC/src/ec/RSPIPE.cc",
+  "file": "/home/han/Program/ParaRC/src/ec/RSPIPE.cc",
+  "output": "src/ec/CMakeFiles/ec.dir/RSPIPE.cc.o"
+},
+{
+  "directory": "/home/han/Program/ParaRC/build/src/protocol",
+  "command": "/usr/bin/g++    -O3 -mmmx -msse -mpclmul -msse4.2 -DINTEL_SSE4 -g -std=gnu++11 -o CMakeFiles/protocol.dir/AGCommand.cc.o -c /home/han/Program/ParaRC/src/protocol/AGCommand.cc",
+  "file": "/home/han/Program/ParaRC/src/protocol/AGCommand.cc",
+  "output": "src/protocol/CMakeFiles/protocol.dir/AGCommand.cc.o"
+},
+{
+  "directory": "/home/han/Program/ParaRC/build/src/protocol",
+  "command": "/usr/bin/g++    -O3 -mmmx -msse -mpclmul -msse4.2 -DINTEL_SSE4 -g -std=gnu++11 -o CMakeFiles/protocol.dir/CacheCommand.cc.o -c /home/han/Program/ParaRC/src/protocol/CacheCommand.cc",
+  "file": "/home/han/Program/ParaRC/src/protocol/CacheCommand.cc",
+  "output": "src/protocol/CMakeFiles/protocol.dir/CacheCommand.cc.o"
+},
+{
+  "directory": "/home/han/Program/ParaRC/build/src/protocol",
+  "command": "/usr/bin/g++    -O3 -mmmx -msse -mpclmul -msse4.2 -DINTEL_SSE4 -g -std=gnu++11 -o CMakeFiles/protocol.dir/ComputeCommand.cc.o -c /home/han/Program/ParaRC/src/protocol/ComputeCommand.cc",
+  "file": "/home/han/Program/ParaRC/src/protocol/ComputeCommand.cc",
+  "output": "src/protocol/CMakeFiles/protocol.dir/ComputeCommand.cc.o"
+},
+{
+  "directory": "/home/han/Program/ParaRC/build/src/protocol",
+  "command": "/usr/bin/g++    -O3 -mmmx -msse -mpclmul -msse4.2 -DINTEL_SSE4 -g -std=gnu++11 -o CMakeFiles/protocol.dir/CoorCommand.cc.o -c /home/han/Program/ParaRC/src/protocol/CoorCommand.cc",
+  "file": "/home/han/Program/ParaRC/src/protocol/CoorCommand.cc",
+  "output": "src/protocol/CMakeFiles/protocol.dir/CoorCommand.cc.o"
+},
+{
+  "directory": "/home/han/Program/ParaRC/build/src/protocol",
+  "command": "/usr/bin/g++    -O3 -mmmx -msse -mpclmul -msse4.2 -DINTEL_SSE4 -g -std=gnu++11 -o CMakeFiles/protocol.dir/FetchCommand.cc.o -c /home/han/Program/ParaRC/src/protocol/FetchCommand.cc",
+  "file": "/home/han/Program/ParaRC/src/protocol/FetchCommand.cc",
+  "output": "src/protocol/CMakeFiles/protocol.dir/FetchCommand.cc.o"
+},
+{
+  "directory": "/home/han/Program/ParaRC/build/src/util",
+  "command": "/usr/bin/g++    -O3 -mmmx -msse -mpclmul -msse4.2 -DINTEL_SSE4 -g -std=gnu++11 -o CMakeFiles/util.dir/DistUtil.cc.o -c /home/han/Program/ParaRC/src/util/DistUtil.cc",
+  "file": "/home/han/Program/ParaRC/src/util/DistUtil.cc",
+  "output": "src/util/CMakeFiles/util.dir/DistUtil.cc.o"
+},
+{
+  "directory": "/home/han/Program/ParaRC/build/src/util",
+  "command": "/usr/bin/g++    -O3 -mmmx -msse -mpclmul -msse4.2 -DINTEL_SSE4 -g -std=gnu++11 -o CMakeFiles/util.dir/LoadVector.cc.o -c /home/han/Program/ParaRC/src/util/LoadVector.cc",
+  "file": "/home/han/Program/ParaRC/src/util/LoadVector.cc",
+  "output": "src/util/CMakeFiles/util.dir/LoadVector.cc.o"
+},
+{
+  "directory": "/home/han/Program/ParaRC/build/src/util",
+  "command": "/usr/bin/g++    -O3 -mmmx -msse -mpclmul -msse4.2 -DINTEL_SSE4 -g -std=gnu++11 -o CMakeFiles/util.dir/RedisUtil.cc.o -c /home/han/Program/ParaRC/src/util/RedisUtil.cc",
+  "file": "/home/han/Program/ParaRC/src/util/RedisUtil.cc",
+  "output": "src/util/CMakeFiles/util.dir/RedisUtil.cc.o"
+},
+{
+  "directory": "/home/han/Program/ParaRC/build/src/util",
+  "command": "/usr/bin/gcc   -g -o CMakeFiles/util.dir/galois.c.o -c /home/han/Program/ParaRC/src/util/galois.c",
+  "file": "/home/han/Program/ParaRC/src/util/galois.c",
+  "output": "src/util/CMakeFiles/util.dir/galois.c.o"
+},
+{
+  "directory": "/home/han/Program/ParaRC/build/src/util",
+  "command": "/usr/bin/gcc   -g -o CMakeFiles/util.dir/jerasure.c.o -c /home/han/Program/ParaRC/src/util/jerasure.c",
+  "file": "/home/han/Program/ParaRC/src/util/jerasure.c",
+  "output": "src/util/CMakeFiles/util.dir/jerasure.c.o"
+},
+{
+  "directory": "/home/han/Program/ParaRC/build/src/util",
+  "command": "/usr/bin/g++    -O3 -mmmx -msse -mpclmul -msse4.2 -DINTEL_SSE4 -g -std=gnu++11 -o CMakeFiles/util.dir/tinyxml2.cpp.o -c /home/han/Program/ParaRC/src/util/tinyxml2.cpp",
+  "file": "/home/han/Program/ParaRC/src/util/tinyxml2.cpp",
+  "output": "src/util/CMakeFiles/util.dir/tinyxml2.cpp.o"
+}
+]

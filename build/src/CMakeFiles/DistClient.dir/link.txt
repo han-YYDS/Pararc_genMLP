@@ -1,0 +1,1 @@
+/usr/bin/g++  -O3 -mmmx -msse -mpclmul -msse4.2 -DINTEL_SSE4 -g -rdynamic CMakeFiles/DistClient.dir/DistClient.cc.o -o ../DistClient  common/libcommon.a -lpthread protocol/libprotocol.a util/libutil.a -lgf_complete -lhiredis 
